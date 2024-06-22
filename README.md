@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello! You have reached the github of [Reginald Thompson Jr.]. [Reginald Thompson Jr.] is [mildly, yet rather pleased] to have you!
+
+[Reginald Thompson Jr.] is a(n) [aspiring Game Developer] who [hopes to create his own game studio] and [is currently learning C#, C++, Unity, and Unreal]!
+
+Ever since [he was a young boy], [Reginald Thompson Jr.] had a [strong affinity to Video Games]. [His] [love and passion for the medium] drove [him] to pursue a career in [Game Development] to [give back to the Industry that brought so much joy into his life].
+
+[Reginald Thompson Jr.] is [optimistic in his endeavors], and [hopes to make his mark on the gaming industry]!
 
 <!--
 **RJT800/RJT800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
