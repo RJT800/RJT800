@@ -2,7 +2,7 @@
 
 [Reginald Thompson Jr.] is a(n) [aspiring Game Developer] who [hopes to create some amazing games] and [is currently learning C#, C++, Unity, and Unreal]!
 
-[Look at my Gun Generator!](https://github.com/RJT800/TPTCPP)
+Look at my [Gun Generator!](https://github.com/RJT800/TPTCPP)
 ![Look at my Gun Generator!](https://github.com/RJT800/RJT800/blob/main/GunGenExamplePicture.jpg?raw=true)
 
 Ever since [he was a young boy], [Reginald Thompson Jr.] had a [strong affinity to Video Games]. [His] [love and passion for the medium] drove [him] to pursue a career in [Game Development] to [give back to the Industry that brought so much joy into his life].
