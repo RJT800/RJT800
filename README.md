@@ -6,8 +6,9 @@
 
 During my time at AIE(Academy of Interactive Entertainment), I have worked on games such as Tricky treats and Life's a Beach. My contributions include UI, VFX, Sound Design, and many other systems.
 
+![Tricky Treats](https://github.com/RJT800/RJT800/blob/main/image_2025-06-26_124533002.png?raw=true)
 
-
+![Lifes A Beach](https://github.com/RJT800/RJT800/blob/main/LAB_ItchBanner.png?raw=true)
 # Projects I'm working on!!
 
 Look at my [Gun Generator!](https://github.com/RJT800/TPTCPP)
