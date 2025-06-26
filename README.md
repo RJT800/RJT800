@@ -2,6 +2,14 @@
 
 [Reginald Thompson Jr.] is a(n) [aspiring Game Developer] who [hopes to create some amazing games] and [is currently learning C#, C++, Unity, and Unreal]!
 
+# Games I've worked on!!
+
+During my time at AIE(Academy of Interactive Entertainment), I have worked on games such as Tricky treats and Life's a Beach. My contributions include UI, VFX, Sound Design, and many other systems.
+
+
+
+# Projects I'm working on!!
+
 Look at my [Gun Generator!](https://github.com/RJT800/TPTCPP)
 ![Look at my Gun Generator!](https://github.com/RJT800/RJT800/blob/main/GunGenExamplePicture.jpg?raw=true)
 
