@@ -15,7 +15,7 @@ You can find a link to the Itch.io page right [here](https://trickytreats.itch.i
 Life's A Beach is a silly endless runner game where you play as a seagull stealing food from people.<br/>
 
 You can find a link to the Itch.io page right [here](https://lifesabeachaie.itch.io/lifes-a-beach)
-# Others projects I'm working on!!
+# Minor projects/WIP
 
 Look at my [Gun Generator!](https://github.com/RJT800/TPTCPP)
 ![Look at my Gun Generator!](https://github.com/RJT800/RJT800/blob/main/GunGenExamplePicture.jpg?raw=true)
